@@ -1,0 +1,72 @@
+[
+  {
+    "planet0": {
+      "planet population": "2000000000",
+      "planet name": "Alderaan",
+      "planet climate": "temperate"
+    }
+  },
+  {
+    "planet1": {
+      "planet population": "1000",
+      "planet name": "Yavin IV",
+      "planet climate": "temperate, tropical"
+    }
+  },
+  {
+    "planet2": {
+      "planet population": "unknown",
+      "planet name": "Hoth",
+      "planet climate": "frozen"
+    }
+  },
+  {
+    "planet3": {
+      "planet population": "unknown",
+      "planet name": "Dagobah",
+      "planet climate": "murky"
+    }
+  },
+  {
+    "planet4": {
+      "planet population": "6000000",
+      "planet name": "Bespin",
+      "planet climate": "temperate"
+    }
+  },
+  {
+    "planet5": {
+      "planet population": "30000000",
+      "planet name": "Endor",
+      "planet climate": "temperate"
+    }
+  },
+  {
+    "planet6": {
+      "planet population": "4500000000",
+      "planet name": "Naboo",
+      "planet climate": "temperate"
+    }
+  },
+  {
+    "planet7": {
+      "planet population": "1000000000000",
+      "planet name": "Coruscant",
+      "planet climate": "temperate"
+    }
+  },
+  {
+    "planet8": {
+      "planet population": "1000000000",
+      "planet name": "Kamino",
+      "planet climate": "temperate"
+    }
+  },
+  {
+    "planet9": {
+      "planet population": "100000000000",
+      "planet name": "Geonosis",
+      "planet climate": "temperate, arid"
+    }
+  }
+]

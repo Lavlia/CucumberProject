@@ -1,0 +1,72 @@
+[
+  {
+    "people0": {
+      "gender": "male",
+      "birth year": "19BBY",
+      "name": "Luke Skywalker"
+    }
+  },
+  {
+    "people1": {
+      "gender": "n/a",
+      "birth year": "112BBY",
+      "name": "C-3PO"
+    }
+  },
+  {
+    "people2": {
+      "gender": "n/a",
+      "birth year": "33BBY",
+      "name": "R2-D2"
+    }
+  },
+  {
+    "people3": {
+      "gender": "male",
+      "birth year": "41.9BBY",
+      "name": "Darth Vader"
+    }
+  },
+  {
+    "people4": {
+      "gender": "female",
+      "birth year": "19BBY",
+      "name": "Leia Organa"
+    }
+  },
+  {
+    "people5": {
+      "gender": "male",
+      "birth year": "52BBY",
+      "name": "Owen Lars"
+    }
+  },
+  {
+    "people6": {
+      "gender": "female",
+      "birth year": "47BBY",
+      "name": "Beru Whitesun lars"
+    }
+  },
+  {
+    "people7": {
+      "gender": "n/a",
+      "birth year": "unknown",
+      "name": "R5-D4"
+    }
+  },
+  {
+    "people8": {
+      "gender": "male",
+      "birth year": "24BBY",
+      "name": "Biggs Darklighter"
+    }
+  },
+  {
+    "people9": {
+      "gender": "male",
+      "birth year": "57BBY",
+      "name": "Obi-Wan Kenobi"
+    }
+  }
+]

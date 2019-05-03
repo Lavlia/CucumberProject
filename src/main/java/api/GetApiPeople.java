@@ -15,6 +15,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 import static io.restassured.RestAssured.given;
+import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 
 public class GetApiPeople {
 
@@ -30,7 +31,9 @@ public class GetApiPeople {
                 header("Content-Type", "application/json").
                 param("format", "json").
                 get("/api/people/").
-                then().assertThat().statusCode(200).contentType(ContentType.JSON).extract().response();
+                then().assertThat().statusCode(200).contentType(ContentType.JSON).
+                body(matchesJsonSchemaInClasspath("peopleSchema.json")).
+                extract().response();
     }
 
     public void peopleJsonResponse() {

@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="933bcf77-7eae-4cec-8936-82da4c204bc9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/GetApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/LoginLIn.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/LoginLIn.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckArrowUpAndTextBoxSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckArrowUpAndTextBoxSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckLeftMenuBarSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckLeftMenuBarSteps.java" afterDir="false" />
-    </list>
+    <list default="true" id="933bcf77-7eae-4cec-8936-82da4c204bc9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +116,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -447,7 +428,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35234898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

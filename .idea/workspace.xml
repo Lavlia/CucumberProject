@@ -4,8 +4,22 @@
     <list default="true" id="933bcf77-7eae-4cec-8936-82da4c204bc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/api/GetApiPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/GetApiPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/GetApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/LoginLIn.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/LoginLIn.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckArrowUpAndTextBoxSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckArrowUpAndTextBoxSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckLeftMenuBarSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckLeftMenuBarSteps.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,66 +33,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/api/GetApiPeople.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/people.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/peopleSchema.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3792">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="163" column="21" selection-start-line="163" selection-start-column="21" selection-end-line="163" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,16 +49,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pageObjects/SVHomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pageObjects/SVInsightsPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pageObjects/BaseUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/testngFailed.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/helper/Loader.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/LoggerHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckSearchButtonSteps.java" />
@@ -122,33 +76,39 @@
         <option value="$PROJECT_DIR$/src/test/java/PostApiDataTableSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/GetApiPlanetsSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/api/GetApiWeather.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/api/GetApiPlanets.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/PostApiDataTable.feature" />
         <option value="$PROJECT_DIR$/src/main/java/api/PostApiDataTable.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/GetPostDeleteApi.feature" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostGetDeleteSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/api/PostGetDeleteApi.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/PostGetDeleteApi.feature" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostGetDeleteApiSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/api/PostApiBooks.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/LoginLIn.feature" />
         <option value="$PROJECT_DIR$/peopleShema.json" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinition/peopleSchema.json" />
         <option value="$PROJECT_DIR$/src/main/java/api/GetApiPeople.java" />
         <option value="$PROJECT_DIR$/src/test/resources/peopleSchema.json" />
+        <option value="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckArrowUpAndTextBoxSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/GetApi.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/LoginLIn.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckLeftMenuBarSteps.java" />
       </list>
     </option>
   </component>
@@ -176,10 +136,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -187,7 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,22 +248,11 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CopyCucumberBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CopyCucumberBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CopyCucumberBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CopyCucumberBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: GetApiPeople">
+  <component name="RunManager" selected="Cucumber java.Feature: SVCheckArrowUpAndTextBox">
     <configuration name="Feature: GetApiPeople" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature" />
@@ -389,14 +338,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: postApiDataTable" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: SVCheckArrowUpAndTextBox" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" />
       <option name="GLUE" value="stepDefinition" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="CucumberBasics" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: postApiDataTable" />
+      <option name="SUGGESTED_NAME" value="Feature: SVCheckArrowUpAndTextBox" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -407,15 +356,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: This scenario Post details about characters in a tv series, makes a Get operations about those characters," type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: I go to Softvision Site then i go to Insights Page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/PostGetDeleteApi.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature" />
       <option name="GLUE" value="stepDefinition" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="CucumberBasics" />
-      <option name="NAME_FILTER" value="^This scenario Post details about characters in a tv series\, makes a Get operations about those characters\,$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^This scenario Post details about characters in a tv series\, makes a Get operations about those characters\,$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: This scenario Post details about characters in a tv series, makes a Get operations about those characters," />
+      <option name="NAME_FILTER" value="^I go to Softvision Site then i go to Insights Page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^I go to Softvision Site then i go to Insights Page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: I go to Softvision Site then i go to Insights Page" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -430,16 +379,16 @@
       <item itemvalue="Cucumber java.Feature: GetApiPeople" />
       <item itemvalue="Cucumber java.Feature: PostApiBooks" />
       <item itemvalue="Cucumber java.Feature: PostGetDeleteApi" />
-      <item itemvalue="Cucumber java.Feature: postApiDataTable" />
-      <item itemvalue="Cucumber java.Scenario: This scenario Post details about characters in a tv series, makes a Get operations about those characters," />
+      <item itemvalue="Cucumber java.Scenario: I go to Softvision Site then i go to Insights Page" />
+      <item itemvalue="Cucumber java.Feature: SVCheckArrowUpAndTextBox" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: SVCheckArrowUpAndTextBox" />
+        <item itemvalue="Cucumber java.Scenario: I go to Softvision Site then i go to Insights Page" />
         <item itemvalue="Cucumber java.Feature: GetApiPeople" />
         <item itemvalue="Cucumber java.Feature: PostApiBooks" />
         <item itemvalue="Cucumber java.Feature: PostGetDeleteApi" />
-        <item itemvalue="Cucumber java.Scenario: This scenario Post details about characters in a tv series, makes a Get operations about those characters," />
-        <item itemvalue="Cucumber java.Feature: postApiDataTable" />
       </list>
     </recent_temporary>
   </component>
@@ -457,12 +406,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__PostApiBooks - 2019.04.23 at 11h 10m 20s.xml">
-      <configuration name="Feature: PostApiBooks" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__GetApiPeople - 2019.05.03 at 16h 10m 20s.xml">
-      <configuration name="Feature: GetApiPeople" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Feature__GetApiPeople - 2019.05.03 at 16h 14m 08s.xml">
       <configuration name="Feature: GetApiPeople" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -487,6 +430,12 @@
     <history-entry file="Feature__GetApiPeople - 2019.05.03 at 17h 22m 29s.xml">
       <configuration name="Feature: GetApiPeople" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__I_go_to_Softvision_Site_then_i_go_to_Insights_Page - 2019.05.07 at 09h 32m 18s.xml">
+      <configuration name="Scenario: I go to Softvision Site then i go to Insights Page" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__SVCheckArrowUpAndTextBox - 2019.05.07 at 09h 34m 31s.xml">
+      <configuration name="Feature: SVCheckArrowUpAndTextBox" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,9 +447,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34295303" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35234898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -509,12 +458,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17422096" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04249292" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46458924" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3856988" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.04249292" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -559,44 +508,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/LoggerHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/PostApiDataTable/feature.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/api/PostApi.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/postApi.feature" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostApiSteps.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/RestAssured.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -610,25 +521,6 @@
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/GetApi.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -693,38 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/planets.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -744,47 +604,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostGetDeleteSteps.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/api/PostGetDeleteApi.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/features/PostGetDeleteApi.feature" />
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostGetDeleteApiSteps.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/runner/AnnotationTransformer.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/LoginLIn.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commons.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -822,16 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/runner/RerunTestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -842,30 +656,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature">
+    <entry file="file://$PROJECT_DIR$/peopleShema.json" />
+    <entry file="file://$PROJECT_DIR$/target/test-classes/peopleSchema.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/peopleSchema.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/peopleShema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
+        <state relative-caret-position="2771">
           <caret line="163" column="21" selection-start-line="163" selection-start-column="21" selection-end-line="163" selection-end-column="21" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/peopleSchema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/people.json">
@@ -873,29 +677,172 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/api/GetApiPeople.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="136">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/peopleSchema.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/SVInsightsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3792">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="306">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/SVCheckArrowUpAndTextBox.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/runner/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckArrowUpAndTextBoxSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPeopleSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/features/GetApiPeople.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/GetApiPlanetsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/GetApiPlanets.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/GetApiSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/GetApi.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/LoginLIn.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/LoginSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostApiBooksSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/PostApiBooks.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/postApiDataTable.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/PostApiDataTableSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckLeftMenuBarSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/SVCheckLeftMenuBar.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/SVCheckSearchButtonSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/SVCheckSearchButton.feature">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

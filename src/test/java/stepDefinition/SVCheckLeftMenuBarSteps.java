@@ -1,7 +1,7 @@
 package stepDefinition;
 
+import cucumber.api.java.en.When;
 import pageObjects.BaseUtil;
-import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import pageObjects.SVHomePage;
@@ -19,7 +19,7 @@ public class SVCheckLeftMenuBarSteps extends BaseUtil {
         getDriver().navigate().to(accessingProperties("baseUrlSV"));
     }
 
-    @And("^I click on ([^\"]*) on Left Main Menu$")
+    @When("^I click on ([^\"]*) on Left Main Menu$")
     public void iClickOnLinkNameOnLeftMainMenu(String linkElement) {
         svHomePage.clickOnLeftMenuLink(linkElement);
     }

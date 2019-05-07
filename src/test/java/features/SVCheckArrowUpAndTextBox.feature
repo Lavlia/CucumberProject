@@ -6,14 +6,16 @@ Feature: This feature deals with functionality of the UI from Insights Page for 
 
   Background: I go to Softvision Site then i go to Insights Page
     Given I navigate to Softvision Site
-    Then I click on Insights Page
+    When I click on Insights Page
 
 
   Scenario: I check the Arrow Up button
-    Given I scroll down the page
-    Then I click on Arrow Up Button
+    When I scroll down the page
+    And I click on Arrow Up Button
+    Then I check the button title
 
 
   Scenario: I check the Text Box for subscribe
-    Given I click on Text Box
-    Then I try to write something to the Text Box
+    When I click on Text Box
+    And I try to write something to the Text Box
+    Then I should see the text i wrote

@@ -6,7 +6,7 @@ Feature: This feature adds books to a library website
 
   Scenario: Test about adding books to a library website
     Given I am on the library website
-    And I add different books
+    When I add different books
       | name                                    | isbn | aisle |
       | Learn Selenium Automation with Java     | aaa  | 01    |
       | Learn TestNG Automation with Java       | bbb  | 02    |

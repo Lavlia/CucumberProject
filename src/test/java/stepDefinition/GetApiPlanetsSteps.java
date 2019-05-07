@@ -2,14 +2,14 @@ package stepDefinition;
 
 import api.GetApiPlanets;
 import cucumber.api.java.en.And;
-import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 import pageObjects.BaseUtil;
 
 public class GetApiPlanetsSteps extends BaseUtil {
     GetApiPlanets getApiPlanets = new GetApiPlanets();
 
-    @Given("I perform GET operation on all the planets")
+    @When("I perform GET operation on all the planets")
     public void iPerformGETOperationOnAllThePlanets() {
         getDriver().get("https://www.swapi.co/api/planets/?format=json");
         getApiPlanets.getBaseUri();

@@ -2,15 +2,15 @@ package stepDefinition;
 
 import api.GetApiPeople;
 import cucumber.api.java.en.And;
-import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
 import pageObjects.BaseUtil;
 
 public class GetApiPeopleSteps extends BaseUtil {
 
     GetApiPeople getApiPeople = new GetApiPeople();
 
-    @Given("I perform GET operation on all the people")
+    @When("I perform GET operation on all the people")
     public void iPerformGETOperationOnAllThePeople() {
         getDriver().get("https://www.swapi.co/api/people/?format=json");
         getApiPeople.getBaseUrl();

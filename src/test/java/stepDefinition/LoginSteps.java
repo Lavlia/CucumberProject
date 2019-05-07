@@ -1,5 +1,6 @@
 package stepDefinition;
 
+import cucumber.api.java.en.When;
 import pageObjects.BaseUtil;
 
 import cucumber.api.java.en.And;
@@ -25,7 +26,7 @@ public class LoginSteps extends BaseUtil {
         getDriver().get(accessingProperties("baseUrlLI"));
     }
 
-    @And("^I enter the following for Login$")
+    @When("^I enter the following for Login$")
     public void iEnterTheFollowingForLogin(DataTable table) {
 
         List<Map<String, String>> list = table.asMaps(String.class, String.class);

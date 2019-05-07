@@ -6,7 +6,7 @@ Feature: This feature adds books to a library website
 
   Scenario Outline: Test about adding books to a library website
     Given I am on the library site
-    And I add different books <name> with unique <isbn> and store then on their <aisle>
+    When I add different books <name> with unique <isbn> and store then on their <aisle>
     Then I check if books have the correct <status>
 
     Examples:

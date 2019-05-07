@@ -1,2 +1,8 @@
-2019-05-03 17:05:391INFO  Hooks:33 = Chrome browser is opened
-2019-05-03 17:05:634INFO  Hooks:61 = Remove browser
+2019-05-07 09:05:914INFO  Hooks:33 = Chrome browser is opened
+2019-05-07 09:05:914INFO  BasePage:21 = Wait for the driver and maximize window
+2019-05-07 09:05:101INFO  BasePage:21 = Wait for the driver and maximize window
+2019-05-07 09:05:590INFO  Hooks:61 = Remove browser
+2019-05-07 09:05:56INFO  Hooks:33 = Chrome browser is opened
+2019-05-07 09:05:56INFO  BasePage:21 = Wait for the driver and maximize window
+2019-05-07 09:05:222INFO  BasePage:21 = Wait for the driver and maximize window
+2019-05-07 09:05:640INFO  Hooks:61 = Remove browser
